@@ -1,0 +1,12 @@
+{
+  "version": "0.1.0",
+  "package_date": "2026-10-07",
+  "author": "Елизавета Трибунская",
+  "website": "https://tribunska.ru/",
+  "skill": "skills/review-yandex-webvisor/SKILL.md",
+  "adapted_from": {
+    "repository": "BayramAnnakov/clarity-session-review",
+    "revision": "0e38712f0e316a45d3153269208ee0d67e50bf89",
+    "license_notice": "skills/review-yandex-webvisor/licenses/clarity-session-review-MIT.txt"
+  }
+}
