@@ -9,7 +9,7 @@
 
 Скачайте репозиторий или архив релиза и передайте ассистенту папку. Напишите:
 
-> Прочитай `skills/review-yandex-webvisor/SKILL.md`. Помоги проверить мой вопрос по записям Вебвизора. Период — …, часовой пояс — …, доступ к Метрике есть. Сначала согласуй выборку и формат результата.
+> Прочитай `SKILL.md`. Помоги проверить мой вопрос по записям Вебвизора. Период — …, часовой пояс — …, доступ к Метрике есть. Сначала согласуй выборку и формат результата.
 
 Ассистент зафиксирует вопрос, период, часовой пояс и доступную совокупность записей; посчитает выбранные и исключённые визиты; проверит ключевые действия при скорости 1×; разделит наблюдение, гипотезу, событие результата и проверку публичной страницы.
 
@@ -34,11 +34,11 @@
 
 ## Состав
 
-- [`SKILL.md`](skills/review-yandex-webvisor/SKILL.md) — основной рабочий маршрут;
-- [`player-review.md`](skills/review-yandex-webvisor/references/player-review.md) — протокол выборки, просмотра и временного покрытия;
-- [`evidence-contract.md`](skills/review-yandex-webvisor/references/evidence-contract.md) — форма отчёта и обезличивание;
-- [`sources.md`](skills/review-yandex-webvisor/references/sources.md) — происхождение метода и официальные источники;
-- [`clarity-session-review-MIT.txt`](skills/review-yandex-webvisor/licenses/clarity-session-review-MIT.txt) — точное уведомление лицензии исходного метода.
+- [`SKILL.md`](SKILL.md) — основной рабочий маршрут;
+- [`player-review.md`](references/player-review.md) — протокол выборки, просмотра и временного покрытия;
+- [`evidence-contract.md`](references/evidence-contract.md) — форма отчёта и обезличивание;
+- [`sources.md`](references/sources.md) — происхождение метода и официальные источники;
+- [`clarity-session-review-MIT.txt`](licenses/clarity-session-review-MIT.txt) — точное уведомление лицензии исходного метода.
 
 ## Полномочия
 
@@ -50,4 +50,4 @@
 
 Рецепт оценки кандидата опирается на [`Skill Conductor`](https://github.com/smixs/skill-conductor/tree/3c21d2f19c336d3a3333bfe4f45eee041bd13beb) Сергея Шимы: исходная проверка, точечная коррекция и повтор затронутых сценариев в свежем контексте.
 
-Версия: 0.1.0 · 7 октября 2026.
+Версия: 0.1.1 · 8 октября 2026.
